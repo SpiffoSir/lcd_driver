@@ -82,6 +82,7 @@ int __init lcd_drv_init(void)
   mybf_info->pseudo_palette = pseudo_palette;
   /*注册*/
   register_framebuffer(myfb_info);
+  
   /*硬件操作*/
   mylcd_regs = ioremap(0x021C8000, sizeof(struct lcd_regs));
   mylcd_regs->fb_base_phys = phy_addr;
