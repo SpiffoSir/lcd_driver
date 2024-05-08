@@ -1,0 +1,21 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "files.autoSave": "afterDelay",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "C_Cpp.intelliSenseEngineFallback": "disabled",
+    "C_Cpp.enhancedColorization": "enabled",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "always"
+    },
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.codeActionsOnSaveTimeout": 1500,
+    "C_Cpp.gotoDeclaration": "enabled",
+    "C_Cpp.loggingLevel": "Debug",
+    "files.associations": {
+      "init.h":"c",
+      "module.h":"c",
+      
+    }
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "init.h": "c",
+        "module.h": "c",
+        "test_0": "c",
+        "fs.h": "c",
+        "moduleparam.h": "c",
+        "*.tcc": "c",
+        "device.h": "c",
+        "cdev.h": "c",
+        "ostream": "c",
+        "istream": "c",
+        "io.h": "c",
+        "uaccess.h": "c",
+        "compare": "cpp",
+        "type_traits": "cpp",
+        "string_view": "c"
+    }
+}

@@ -1,0 +1,14 @@
+// SPDX-License-Identifier: (GPL-2.0+ OR MIT)
+/*
+ * Copyright (C) 2023 Arm Ltd.
+ */
+
+/dts-v1/;
+
+/ {
+    model = "Pi-zero3";
+    led:led@1{
+        compatible = "led";
+        gpios = <@pio 2 10 GPIO_ACTIVE_HIGH>;
+    };
+};
