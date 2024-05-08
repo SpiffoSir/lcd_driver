@@ -135,6 +135,7 @@ static int __init lcd_drv_init(void)
 	return 0;
 }
 
+
 /*出口*/
 static void __exit lcd_drv_exit(void)
 {
