@@ -1,0 +1,3 @@
+ framebuffer-mylcd {
+                        compatible = "100ask,lcd_drv";
+                };
